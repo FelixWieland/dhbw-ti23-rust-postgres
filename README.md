@@ -1,7 +1,3 @@
-Hier ist ein ausführliches **README** auf Deutsch, das erklärt, wie man das Beispiel ausführt und welche Schritte notwendig sind, einschließlich der Verwendung von Docker Compose für die Datenbank.
-
----
-
 # PostgreSQL mit `tokio-postgres` in Rust
 
 Dieses Projekt zeigt ein einfaches Beispiel für die Nutzung von PostgreSQL mit der Rust-Bibliothek `tokio-postgres`. Es enthält eine Datenbankverbindung, eine Transaktion zum Einfügen von Daten und grundlegende Abfragen.
